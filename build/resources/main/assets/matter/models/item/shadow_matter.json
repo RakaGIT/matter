@@ -1,0 +1,7 @@
+{
+  "parent": "matter:custom/shadow_matter",
+  "textures": {
+    "1": "matter:blocks/shadow_matter",
+    "particle": "matter:items/shadow_matter"
+  }
+}

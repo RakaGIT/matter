@@ -1,0 +1,9 @@
+{
+  "parent": "matter:custom/shadow_matter",
+  "textures": {
+    "all": "matter:blocks/shadow_matter",
+    "particle": "matter:blocks/shadow_matter",
+    "1": "matter:blocks/shadow_matter"
+  },
+  "render_type": "translucent"
+}

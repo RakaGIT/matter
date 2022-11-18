@@ -1,0 +1,94 @@
+{
+  "mod_elements": [
+    {
+      "name": "ShadowMatter",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shadow_matter",
+      "path": "~/Item/Matter"
+    },
+    {
+      "name": "Matter",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "matter",
+      "path": "~/System/Main/TAB"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.matter.shadow_matter": "Shadow Matter",
+      "itemGroup.tabmatter": "Matter"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Item",
+        "children": [
+          {
+            "name": "Matter",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "System",
+        "children": [
+          {
+            "name": "Main",
+            "children": [
+              {
+                "name": "TAB",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Utility",
+        "children": [
+          {
+            "name": "Global",
+            "children": [
+              {
+                "name": "Produce",
+                "children": []
+              },
+              {
+                "name": "Crafting",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "matter",
+    "modName": "Matter",
+    "version": "1.0.0",
+    "author": "rakah, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.matter",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200347418
+}

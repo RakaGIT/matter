@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "matter:block_of_shadow_matter",
+  "step": "underground_ores"
+}
